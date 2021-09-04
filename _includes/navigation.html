@@ -1,0 +1,18 @@
+<nav class="site__navigation">
+    <input id="navigation-control" type="checkbox" class="navigation__control" />
+    <label for="navigation-control" class="navigation__control__label">Menu</label>
+
+    {% for site_page in site.data.navigation.pages %}
+    <span class="navigation__item">
+        <a href="{{ site_page.url }}"
+           title="{{ site_page.title }}" 
+           class="navigation__link
+                 {% if site_page.title == page.title %}
+                 nagivation__link--active
+                 {% endif %}
+                 ">
+        {{ site_page.title }}
+        </a>
+    </span>
+    {% endfor %}
+</nav>

@@ -1,0 +1,13 @@
+pages:
+- title: Home
+  url: /
+- title: Wedding Day
+  url: /wedding-day/
+- title: Our Story
+  url: /our-story/
+- title: Transport and Directions
+  url: /transport-and-directions/
+- title: Accommodation
+  url: /accommodation/
+- title: St Andrews
+  url: /st-andrews/
