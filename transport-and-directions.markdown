@@ -25,25 +25,25 @@ __From Glasgow:__ Take the M8 towards Edinburgh, and turn onto the A80 seven mil
 
 #### By Bus 
 
-Travelling to and from Leuchars
+__To and from Leuchars:__
 The Stagecoach in Fife 99 service runs from St Andrews to Dundee via Leuchars approximately every 15 minutes during the day. The bus journey from St Andrews to Leuchars takes around 15 minutes. Visitors may also choose to take the Moffat and Williamson 92 service from St Andrews to Dundee, although this service does not stop at the bus station.
 
-Travelling within Scotland
-Visitors looking to travel to or from Edinburgh should look out for the X58, X59 and X60 Stagecoach services, which take around two hours. Stagecoach also offers bus services to Glasgow, via the X24, X26 and X27 services, which take around two and a half hours.
+__Within Scotland:__
+Visitors looking to travel to or from Edinburgh should look out for the X59 and X60 Stagecoach services, which take two hours and three hours respectively. Stagecoach also offers bus services to Glasgow, via the X24, X26 and X27 services, which take around two and a half hours.
 
 ### Travelling within St Andrews 
 
 #### By Bus 
 
-Stagecoach in Fife offer a number of routes around St Andrews via the 99 services, as well as routes that go through nearby towns and villages 
+Stagecoach in Fife offer a number of routes around St Andrews via the 99 services, as well as routes that go through nearby towns and villages.
 
 #### By Car
 
-Since St Andrews is a small town, parking is quite limited and if you drive around within the town, it might be difficult to find a space. On street parking in the centre of town is metered and coins are required to pay.
+Since St Andrews is a small town, parking is quite limited and if you drive around within the town, it might be difficult to find a space. On street parking in the centre of town is metered.
 
 ### Taxi numbers 
 
-Some of the taxi companies specialise in airport transfers. 
+Some of the taxi companies specialise in station or airport transfers. 
 
 <address>Williamson’s Taxis: <a href="tel:+441334476787">01334 476787</a></address>
 <address>Golf City Taxis: <a href="tel:+441334477788">01334 477788</a></address>

@@ -2,6 +2,7 @@
 ---
 $cream: #fff8e8;
 $pale-cream: #fffff8;
+$dark: #777868;
 
 * {
     box-sizing: inherit;
@@ -53,23 +54,6 @@ img {
     max-width: 100%;
 }
 
-table {
-    border: 1px solid black;
-    border-collapse: collapse;
-    margin-bottom: 1em;
-    width: 100%;
-}
-
-th,
-td {
-    border: 1px solid black;
-    padding: 0.25em;
-}
-
-th {
-    text-align: left;
-}
-
 .site__navigation {
     margin: 1em 2em;
     text-align: center;
@@ -81,13 +65,14 @@ th {
 }
 
 .navigation__control__label {
+    color: $dark;
     cursor: pointer;
     padding: 0.5em;
 
     .navigation__control:checked + &,
     &:active,
     &:hover {
-        background-color: black;
+        background-color: $dark;
         color: $cream;
     }
 }
@@ -146,6 +131,15 @@ th {
 
     .site__main--content ~ & {
         margin-top: 1.75em;
+    }
+}
+
+.list--subtle {
+    list-style: none;
+    padding: 0;
+
+    & > li:not(:last-child) {
+        margin-bottom: 0.5em;
     }
 }
 
@@ -267,21 +261,6 @@ th {
 }
 
 @media (max-width: 46.5em) {
-    table,
-    tr,
-    th,
-    td {
-        border: none;
-        display: block;
-        padding-top: 0;
-        padding-bottom: 0;
-    }
-
-    tr {
-        border: 1px solid black;
-        margin-bottom: 0.5em;
-    }
-
     .site__main {
         margin: 0 0.75em;
 
@@ -298,7 +277,7 @@ th {
     }
 
     .site__navigation {
-        border: 1px solid black;
+        border: 1px solid $dark;
         border-radius: 0.25em;
         display: block;
     }

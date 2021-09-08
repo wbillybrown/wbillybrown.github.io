@@ -5,38 +5,44 @@ permalink: /accommodation/
 is-content: yes
 ---
 
-We have put together a few hotels and guest houses if you need accommodation. We will also have a special discount code if you wish to stay in university owned accommodation for your trip (TBC in October 2021). 
+We have put together a few hotels and guest houses if you need accommodation. We will also have a special __discount code__ if you wish to stay in university owned accommodation for your trip (TBC in October 2021). 
 
-The list ranges from 5 star hotels to guest houses (highest to lowest). Alternatively, the [Stay in St Andrews](https://www.stayinstandrews.com) website gives more information.
+Alternatively, the [Stay in St Andrews](https://www.stayinstandrews.com) website gives more information.
 
-|     | Hotels                    | Link                                                                               |
-| --- | ------------------------- | ---------------------------------------------------------------------------------- |
-| £££ | Rufflets                  | <https://www.rufflets.co.uk>                                                       |
-|     | The Old Course Hotel      | <https://www.oldcoursehotel.co.uk>                                                 |
-|     | Fairmont                  | <https://www.fairmont.com/st-andrews-scotland/>                                    |
-|     | Rusack's Hotel            | <https://marineandlawn.com/rusacksstandrews/>                                      |
-|     | Russel Hotel              | <https://www.russellhotelstandrews.co.uk/index.html>                               |
-|     | Argdowan                  | <https://www.ardgowanhotel.co.uk/>                                                 |
-|     | Hotel Du Vin              | <https://www.hotelduvin.com/locations/st-andrews/>                                 |
-|     | Best Western Scores Hotel | <https://www.bw-scoreshotel.co.uk/>                                                |
-|     | Dunvegan Hotel            | <https://www.dunvegan-hotel.com>                                                   |
-|     | The Albany Hotel          | <https://www.albanyhotelstandrews.co.uk>                                           |
-|     | Greyfriars                | <https://www.greenekinginns.co.uk/hotels/greyfriars-hotel/>                        |
-|     | Hazelbank Hotel           | <https://www.hazelbank.com/index.html>                                             |
-|     | Kinnettles Hotel          | <https://kinnettleshotel.com>                                                      |
-| £   | Premier Inn               | <https://www.premierinn.com/gb/en/hotels/scotland/fife/st-andrews/st-andrews.html> |
+<div class="columns-container">
+    <div class="column">
+        <h3>Hotels</h3>
+        <ul class="list--subtle">
+            <li><a href="https://www.rufflets.co.uk">Rufflets</a></li>
+            <li><a href="https://www.oldcoursehotel.co.uk">The Old Course Hotel</a></li>
+            <li><a href="https://www.fairmont.com/st-andrews-scotland/">Fairmont</a></li>
+            <li><a href="https://marineandlawn.com/rusacksstandrews/">Rusack's Hotel</a></li>
+            <li><a href="https://www.russellhotelstandrews.co.uk/index.html">Russel Hotel</a></li>
+            <li><a href="https://www.ardgowanhotel.co.uk/">Argdowan</a></li>
+            <li><a href="https://www.hotelduvin.com/locations/st-andrews/">Hotel Du Vin</a></li>
+            <li><a href="https://www.bw-scoreshotel.co.uk/">Best Western Scores Hotel</a></li>
+            <li><a href="https://www.dunvegan-hotel.com">Dunvegan Hotel</a></li>
+            <li><a href="https://www.albanyhotelstandrews.co.uk">The Albany Hotel</a></li>
+            <li><a href="https://www.greenekinginns.co.uk/hotels/greyfriars-hotel/">Greyfriars</a></li>
+            <li><a href="https://www.hazelbank.com/index.html">Hazelbank Hotel</a></li>
+            <li><a href="https://kinnettleshotel.com">Kinnettles Hotel</a></li>
+            <li><a href="https://www.premierinn.com/gb/en/hotels/scotland/fife/st-andrews/st-andrews.html">Premier Inn</a></li>
+        </ul>
+    </div>
 
-|     | Guest Houses and B&Bs      | Link                                      |
-| --- | -------------------------- | ----------------------------------------- |
-|     | Doune Guest House          | <https://www.dounehouse.com>              |
-|     | Montague House             | <https://www.montaguehouse.com>           |
-|     | Lorimer Guest House        | <https://lorimerhouse.com>                |
-|     | The Spindle B&B            | <https://thespindle.co.uk/accommodation/> |
-|     | Scooniehill Farm House B&B | <https://www.scooniehill.co.uk/location/> |
-|     | Annandale Guest house      | <https://www.annandale-standrews.com>     |
-|     | Castlemount B&B            | <https://www.castlemount.net>             |
-|     | Nethan Guest House         | <https://www.nethan-standrews.com>        |
-|     | Old Fishergate House       | <https://oldfishergatehouse.co.uk>        |
-|     | Brownlees Guest House      | <https://www.brownlees.co.uk>             |
-
-University Hall of Residences
+    <div class="column">
+        <h3>Guest Houses and B&amp;Bs</h3>
+        <ul class="list--subtle">
+            <li><a href="https://www.dounehouse.com">Doune Guest House</a></li>
+            <li><a href="https://www.montaguehouse.com">Montague House</a></li>
+            <li><a href="https://lorimerhouse.com">Lorimer Guest House</a></li>
+            <li><a href="https://thespindle.co.uk/accommodation/">The Spindle B&B</a></li>
+            <li><a href="https://www.scooniehill.co.uk/location/">Scooniehill Farm House B&B</a></li>
+            <li><a href="https://www.annandale-standrews.com">Annandale Guest house</a></li>
+            <li><a href="https://www.castlemount.net">Castlemount B&B</a></li>
+            <li><a href="https://www.nethan-standrews.com">Nethan Guest House</a></li>
+            <li><a href="https://oldfishergatehouse.co.uk">Old Fishergate House</a></li>
+            <li><a href="https://www.brownlees.co.uk">Brownlees Guest House</a></li>
+        </ul>
+    </div>
+</div>
