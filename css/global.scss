@@ -1,8 +1,7 @@
 ---
 ---
-$cream: #f5f5f5;
+$grey: #f5f5f5;
 $pale-cream: #fffffc;
-$dark: #777868;
 
 @font-face {
     font-family: 'Parisienne';
@@ -14,8 +13,31 @@ $dark: #777868;
 }
 
 html {
-    background-color: $cream;
+    background-attachment: fixed;
+    background-color: $grey;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh;
+
+    &.andrew-melville-hall {
+        background-image: url('/images/andrew-melville-hall.jpg');
+        background-size: auto 150%;
+    }
+
+    &.east-sands {
+        background-image: url('/images/east-sands.jpg');
+    }
+
+    &.rufflets {
+        background-image: url('/images/rufflets.jpg');
+        background-position: 10% 25%;
+        background-size: auto;
+    }
+
+    &.st-andrews-cathedral {
+        background-image: url('/images/st-andrews-cathedral.jpg');
+    }
 }
 
 html,
@@ -75,15 +97,15 @@ img {
 }
 
 .navigation__control__label {
-    color: $dark;
+    color: black;
     cursor: pointer;
     padding: 0.5em;
 
     .navigation__control:checked + &,
     &:active,
     &:hover {
-        background-color: $dark;
-        color: $cream;
+        background-color: black;
+        color: $grey;
     }
 }
 
@@ -259,6 +281,10 @@ img {
 }
 
 @media (max-width: 52em) {
+    html.rufflets {
+        background-position: 50% 30%;
+    }
+
     h2 {
         font-size: 2.25em;
     }
@@ -281,7 +307,7 @@ img {
         margin: 0 0.75em;
 
         &.site__main--content {
-            background-color: $cream;
+            background-color: $grey;
             box-shadow: none;
         }
     }
@@ -293,13 +319,19 @@ img {
     }
 
     .site__navigation {
-        border: 1px solid $dark;
+        border: 1px solid black;
         border-radius: 0.25em;
         display: block;
     }
 
     .navigation__control:checked ~ .navigation__item {
+        background-color: $grey;
         display: block;
+
+        &:last-child {
+            border-bottom-left-radius: 0.25em;
+            border-bottom-right-radius: 0.25em;
+        }
     }
 
     .navigation__control__label {

@@ -3,6 +3,7 @@ layout: default
 title: Wedding Day
 permalink: /wedding-day/
 is-content: yes
+background: rufflets
 ---
 
 ### Friday 26th August 2022

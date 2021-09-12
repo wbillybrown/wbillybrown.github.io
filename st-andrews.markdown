@@ -9,38 +9,46 @@ St Andrews holds a special place in our hearts, as it's where we met, and of cou
 
 ### Cafés
 
-- The Cottage Kitchen 
-- Gorgeous
-- North Point 
-- Balgove Larder
+<ul class="list--subtle">
+<li>The Cottage Kitchen</li>
+<li>Gorgeous</li>
+<li>North Point</li>
+<li>Balgove Larder</li>
+</ul>
 
 ### Restaurants
 
-- The Doll's House
-- Mitchell's Deli
-- The Seafood Ristorante
-- Ziggy's 
-- The Vineleaf 
-- Cromars
+<ul class="list--subtle">
+<li>The Doll's House</li>
+<li>Mitchell's Deli</li>
+<li>The Seafood Ristorante</li>
+<li>Ziggy's</li>
+<li>The Vineleaf</li>
+<li>Cromars</li>
+</ul>
 
 ### Top sights in town
 
-- St Salvator's Quad
-- St Mary's Quad
-- St Andrews Cathedral (built in 1158, abandoned in 1561)
-- St Andrews Castle (built circa 1200, abandoned in 1656)
-- St Andrews Pier
-- Castle Sands and East Sands
-- Swilcan Bridge and the Old Course
-- West Sands 
-- St Andrews Botanical Garden  
+<ul class="list--subtle">
+<li>St Salvator's Quad</li>
+<li>St Mary's Quad</li>
+<li>St Andrews Cathedral (built in 1158, abandoned in 1561)</li>
+<li>St Andrews Castle (built circa 1200, abandoned in 1656)</li>
+<li>St Andrews Pier</li>
+<li>Castle Sands and East Sands</li>
+<li>Swilcan Bridge and the Old Course</li>
+<li>West Sands</li>
+<li>St Andrews Botanical Garden</li>
+</ul>
 
 ### Things to do around St Andrews 
 
-- [Scotland's secret bunker](https://secretbunker.co.uk/about-the-bunker/)
-- [The Fife Coastal Path](https://fifecoastandcountrysidetrust.co.uk/walks/fife-coastal-path/cambo-sands-to-leuchars/) and the Rock and Spindle
-- [Scottish Deer Centre](https://scottishdeercentre.co.uk/)
-- [Eden Mill Brewery](https://www.edenmill.com/) (currently closed to tours)
-- [Tentsmuir Nature Reserve](https://www.nature.scot/enjoying-outdoors/scotlands-national-nature-reserves/tentsmuir-national-nature-reserve)
-- [Craigtoun Country Park](https://friendsofcraigtoun.org.uk/home/)
-- Crail and Anstruther (two local fishing villages)
+<ul class="list--subtle">
+<li><a href="https://secretbunker.co.uk/about-the-bunker/">Scotland's secret bunker</a></li>
+<li><a href="https://fifecoastandcountrysidetrust.co.uk/walks/fife-coastal-path/cambo-sands-to-leuchars/">The Fife Coastal Path</a> and the Rock and Spindle</li>
+<li><a href="https://scottishdeercentre.co.uk/">Scottish Deer Centre</a></li>
+<li><a href="https://www.edenmill.com/">Eden Mill Brewery</a> (currently closed to tours)</li>
+<li><a href="https://www.nature.scot/enjoying-outdoors/scotlands-national-nature-reserves/tentsmuir-national-nature-reserve">Tentsmuir Nature Reserve</a></li>
+<li><a href="https://friendsofcraigtoun.org.uk/home/">Craigtoun Country Park</a></li>
+<li>Crail and Anstruther (two local fishing villages)</li>
+</ul>

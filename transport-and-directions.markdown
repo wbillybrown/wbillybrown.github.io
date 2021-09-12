@@ -3,6 +3,7 @@ layout: default
 title: Transport and Directions
 permalink: /transport-and-directions/
 is-content: yes
+background: east-sands
 ---
 
 ### Getting to St Andrews

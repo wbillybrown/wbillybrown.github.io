@@ -3,6 +3,7 @@ layout: default
 title: Accommodation
 permalink: /accommodation/
 is-content: yes
+background: andrew-melville-hall
 ---
 
 We have put together a few hotels and guest houses if you need accommodation. We will also have a special __discount code__ if you wish to stay in university owned accommodation for your trip (TBC in October 2021). 
