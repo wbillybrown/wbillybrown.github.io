@@ -35,4 +35,4 @@ Please arrive no more than __30 minutes__ before the start of the ceremony.
 
 Please note that Rufflets is a 7 minute drive away from the University Chapel. If you need transport to the Hotel, please let us know. 
 
-There will be a drinks reception followed by our wedding breakfast. In the evening we will have a ceilidh, live music and dancing, with an evening buffet.
+There will be a drinks reception followed by our wedding breakfast. In the evening we will have a ceilidh, live music and dancing, with a buffet.

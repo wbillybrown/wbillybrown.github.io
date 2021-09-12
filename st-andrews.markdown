@@ -43,4 +43,4 @@ St Andrews holds a special place in our hearts, as it's where we met, and of cou
 - [Eden Mill Brewery](https://www.edenmill.com/) (currently closed to tours)
 - [Tentsmuir Nature Reserve](https://www.nature.scot/enjoying-outdoors/scotlands-national-nature-reserves/tentsmuir-national-nature-reserve)
 - [Craigtoun Country Park](https://friendsofcraigtoun.org.uk/home/)
-- Crail and Anstruther, two local fishing villages 
+- Crail and Anstruther (two local fishing villages)

@@ -2,7 +2,7 @@
     <a class="postcard__link" href="{{ include.url }}" title="{{ include.title }}"></a>
     <img class="postcard__image" src="/images/{{ include.image }}" alt="{{ include.alt_text }}" />
     <div class="postcard__label">
-        <h3 class="postcard__title">{{ include.title }}</h3>
+        <h3 class="postcard__title  text--fancy">{{ include.title }}</h3>
         {% if include.caption %}
         <p class="postcard__caption">{{ include.caption }}</p>
         {% endif %}
