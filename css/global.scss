@@ -36,7 +36,11 @@ html {
     }
 
     &.st-andrews-cathedral {
-        background-image: url('/images/st-andrews-cathedral.jpg');
+        background-image: url('/images/st-andrews-cathedral-light.jpg');
+    }
+
+    &.st-salvators-quad {
+        background-image: url('/images/st-salvators-quad.jpg');
     }
 }
 
@@ -112,6 +116,7 @@ img {
 .navigation__item {
     display: inline-block;
     line-height: 2.5;
+    text-shadow: 0 0 0.5em white;
 }
 
 .navigation__item:not(:last-child) {
@@ -143,6 +148,8 @@ img {
     font-size: 5em;
     font-weight: 400;
     margin: 0 0.5em 0;
+    text-shadow: 0 0 0.5em white,
+                 0 0 0.125em white;
 }
 
 .site__main {
@@ -164,6 +171,16 @@ img {
     .site__main--content ~ & {
         margin-top: 1.75em;
     }
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.columns--2 .columns__column {
+    width: 50%;
 }
 
 .list--subtle {
@@ -345,6 +362,10 @@ img {
         &::after {
             display: none;
         }
+    }
+
+    .columns--2 .columns__column {
+        width: 100%;
     }
 
     .postcard-row {
