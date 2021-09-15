@@ -42,11 +42,13 @@ Stagecoach in Fife offer a number of routes around St Andrews via the 99 service
 
 Since St Andrews is a small town, parking is quite limited and if you drive around within the town, it might be difficult to find a space. On street parking in the centre of town is metered.
 
+Larger, free car parks are available on the edges of town on the North Haugh and by West Sands.
+
 ### Taxi numbers 
 
 Some of the taxi companies specialise in station or airport transfers. 
 
-<address>Williamson’s Taxis: <a href="tel:+441334476787">01334 476787</a></address>
+<address>Williamson's Taxis: <a href="tel:+441334476787">01334 476787</a></address>
 <address>Golf City Taxis: <a href="tel:+441334477788">01334 477788</a></address>
 <address>G&A Taxi Transfers: <a href="tel:+441334871030">01334 871030</a></address>
 <address>Town & Country Taxis: <a href="tel:+441334840444">01334 840444</a></address>
