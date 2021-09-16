@@ -34,6 +34,8 @@ Visitors looking to travel to or from Edinburgh should look out for the X59 and 
 
 ### Travelling within St Andrews 
 
+![Map of St Andrews showing the locations of St Salvator's Chapel and Rufflets Hotel](/images/st-andrews-map.png)
+
 #### By Bus 
 
 Stagecoach in Fife offer a number of routes around St Andrews via the 99 services, as well as routes that go through nearby towns and villages.
