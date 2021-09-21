@@ -233,9 +233,12 @@ img {
 
 .postcard__image {
     border: solid white;
-    filter: sepia(0.3333);
-    max-width: 100%;
     transition: all ease 0.3s;
+    width: 100%;
+
+    &:not(.postcard__image--no-filter) {
+        filter: sepia(0.3333);
+    }
 
     .postcard--full & {
         border-width: 1.25em;
