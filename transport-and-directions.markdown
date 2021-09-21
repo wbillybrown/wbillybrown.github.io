@@ -42,7 +42,9 @@ Stagecoach in Fife offer a number of routes around St Andrews via the 99 service
 
 #### By Car
 
-Since St Andrews is a small town, parking is quite limited and if you drive around within the town, it might be difficult to find a space. On street parking in the centre of town is metered.
+Since St Andrews is a small but popular town, parking is quite limited, and if you drive around within the town it might be difficult to find a space.
+
+North Street, where St Salvator's Chapel is, has plenty of on street parking, but it is metered and can get quite busy. The Scores, behind the chapel, has additional parking, and there is a small car park on North Street near Ziggy's restaurant. Rufflets has free parking available.
 
 Larger, free car parks are available on the edges of town on the North Haugh and by West Sands.
 

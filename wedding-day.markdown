@@ -22,6 +22,8 @@ background: st-salvators-quad
 
 Please arrive no more than __30 minutes__ before the start of the ceremony. 
 
+If you need transport to or from the chapel, please let us know. 
+
 ---
 
 #### Reception
