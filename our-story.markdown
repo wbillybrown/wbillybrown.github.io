@@ -33,14 +33,14 @@ is-content: no
                size="half"
                image="korfball-dinner-2016.jpg"
                filter="no"
-               alt_text="Us at a Korfball Christmas Dinner in November 2016"
-               caption="Korfball Christmas Dinner, November 2016" %}
+               alt_text="Us at a Korfball Christmas Dinner in November 2015"
+               caption="Korfball Christmas Dinner, November 2015" %}
     {% include postcard.html
                size="half"
                image="korfball-dinner-2017.jpg"
                filter="no"
-               alt_text="Us at a Korfball Christmas Dinner in November 2017"
-               caption="Korfball Christmas Dinner, November 2017" %}
+               alt_text="Us at a Korfball Christmas Dinner in November 2016"
+               caption="Korfball Christmas Dinner, November 2016" %}
 </div>
 
 <div class="postcard-row">
