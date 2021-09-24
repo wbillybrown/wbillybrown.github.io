@@ -1,7 +1,8 @@
 ---
 ---
 $grey: #f5f5f5;
-$pale-cream: #fffffc;
+// $pale-cream: #fffffc;
+$pale-cream: rgba(255, 255, 252, 0.85);
 
 @font-face {
     font-family: 'Parisienne';
@@ -91,6 +92,7 @@ img {
 }
 
 .site__navigation {
+    font-size: 1.25em;
     margin: 1em 2em;
     text-align: center;
 }
@@ -350,6 +352,7 @@ img {
         border: 1px solid black;
         border-radius: 0.25em;
         display: block;
+        font-size: 1em;
     }
 
     .navigation__control:checked ~ .navigation__item {
