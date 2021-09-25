@@ -78,6 +78,16 @@ is-content: no
 
 <div class="postcard-row">
     {% include postcard.html
+               size="full"
+               image="engagement.jpg"
+               filter="no"
+               alt_text="Us with Annabel showing her engagement ring, 21 March 2020"
+               caption="Our Engagement, 21 March 2020"
+               label_placement="bottom" %}
+</div>
+
+<div class="postcard-row">
+    {% include postcard.html
                size="half"
                image="us-house.jpg"
                filter="no"

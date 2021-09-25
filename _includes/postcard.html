@@ -3,7 +3,7 @@
     <a class="postcard__link" href="{{ include.url }}" title="{{ include.title }}"></a>
     {% endif %}
     <img class="postcard__image{% if include.filter == 'no' %}  postcard__image--no-filter{% endif %}" src="/images/{{ include.image }}" alt="{{ include.alt_text }}" />
-    <div class="postcard__label">
+    <div class="postcard__label{% if include.label_placement %}  postcard__label--{{ include.label_placement }}{% endif %}">
         {% if include.title %}
         <h3 class="postcard__title  text--fancy">{{ include.title }}</h3>
         {% endif %}

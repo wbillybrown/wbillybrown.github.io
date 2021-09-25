@@ -277,6 +277,11 @@ img {
         bottom: 16%;
         box-shadow: 0 0 0 0.33em white;
     }
+
+    &.postcard__label--bottom {
+        bottom: 0;
+        margin-bottom: 1em;
+    }
 }
 
 .postcard__title,
