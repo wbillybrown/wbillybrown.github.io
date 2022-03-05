@@ -184,6 +184,21 @@ img {
     }
 }
 
+.button {
+    background-color: $grey;
+    border: 1px solid black;
+    border-radius: 0.25em;
+    color: black;
+    cursor: pointer;
+    padding: 0.5em 1.5em;
+
+    &:active,
+    &:hover {
+        background-color: black;
+        color: $grey;
+    }
+}
+
 .columns {
     display: flex;
     flex-direction: row;
@@ -192,6 +207,10 @@ img {
 
 .columns--2 .columns__column {
     width: 50%;
+}
+
+.display--block {
+    display: block;
 }
 
 .list--subtle {
@@ -318,6 +337,11 @@ img {
 
 .text--small {
     font-size: 0.8em;
+}
+
+.wedding-list-field {
+    margin-right: 0.5em;
+    width: 2.5em;
 }
 
 @media (max-width: 52em) {
