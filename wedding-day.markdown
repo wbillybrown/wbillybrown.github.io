@@ -22,7 +22,7 @@ background: st-salvators-quad
 
 Please arrive no more than __30 minutes__ before the start of the ceremony. 
 
-If you need transport to or from the chapel, please let us know. 
+If you need transport to or from the chapel, please let us know. Parking can be found on North Street and on the Scores. Parking near the chapel is ticketed, but it is free on North Street in the direction of the cathedral.
 
 ---
 

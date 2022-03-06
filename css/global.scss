@@ -1,12 +1,13 @@
 ---
 ---
 $grey: #f5f5f5;
-// $pale-cream: #fffffc;
 $pale-cream: rgba(255, 255, 252, 0.85);
+$font: 'Tangerine';
 
 @font-face {
-    font-family: 'Parisienne';
-    src: url('/fonts/Parisienne/Parisienne-Regular.ttf') format('truetype');
+    font-family: 'Tangerine';
+    src: url('/fonts/Tangerine/Tangerine-Regular.ttf') format('truetype'),
+         url('/fonts/Tangerine/Tangerine-Bold.ttf') format('truetype');
 }
 
 * {
@@ -66,38 +67,91 @@ address {
 }
 
 h1,
-h2 {
-    font-family: 'Parisienne', serif;
-}
-
-h1,
 h2,
 h3,
 h4 {
+    font-family: $font, serif;
     font-weight: 400;
     line-height: 1;
-    margin: 0.5em 0;
+    margin: 0.25em 0;
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 4em;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 2.8em;
 }
 
 h4 {
-    font-size: 1.66em;
+    font-size: 2.3em;
 }
 
 hr {
     border: none;
     border-bottom: medium double black;
+    margin: 1.5em 0;
 }
 
 img {
     max-width: 100%;
+}
+
+.button {
+    background-color: $grey;
+    border: 1px solid black;
+    border-radius: 0.25em;
+    color: black;
+    cursor: pointer;
+    padding: 0.5em 1.5em;
+
+    &:active,
+    &:hover {
+        background-color: black;
+        color: $grey;
+    }
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.columns--2 .columns__column {
+    width: 50%;
+}
+
+.display--block {
+    display: block;
+}
+
+.list--subtle {
+    list-style: none;
+    padding: 0;
+
+    & > li:not(:last-child) {
+        margin-bottom: 0.5em;
+    }
+
+    .list--subtle {
+        padding-left: 1.5em;
+    }
+}
+
+.text--fancy {
+    font-family: $font, serif;
+    line-height: 1.6;
+}
+
+.text--small {
+    font-size: 0.8em;
+}
+
+.wedding-list-field {
+    margin-right: 0.5em;
+    width: 2.5em;
 }
 
 .site__navigation {
@@ -181,48 +235,6 @@ img {
 
     .site__main--content ~ & {
         margin-top: 1.75em;
-    }
-}
-
-.button {
-    background-color: $grey;
-    border: 1px solid black;
-    border-radius: 0.25em;
-    color: black;
-    cursor: pointer;
-    padding: 0.5em 1.5em;
-
-    &:active,
-    &:hover {
-        background-color: black;
-        color: $grey;
-    }
-}
-
-.columns {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.columns--2 .columns__column {
-    width: 50%;
-}
-
-.display--block {
-    display: block;
-}
-
-.list--subtle {
-    list-style: none;
-    padding: 0;
-
-    & > li:not(:last-child) {
-        margin-bottom: 0.5em;
-    }
-
-    .list--subtle {
-        padding-left: 1.5em;
     }
 }
 
@@ -322,26 +334,16 @@ img {
     margin: 0;
 }
 
+.postcard__title {
+    line-height: 1;
+}
+
 .postcard--full .postcard__title {
-    font-size: 3em;
+    font-size: 4em;
 }
 
 .postcard--half .postcard__title {
-    font-size: 1.5em;
-}
-
-.text--fancy {
-    font-family: 'Parisienne', serif;
-    line-height: 1.6;
-}
-
-.text--small {
-    font-size: 0.8em;
-}
-
-.wedding-list-field {
-    margin-right: 0.5em;
-    width: 2.5em;
+    font-size: 2.3em;
 }
 
 @media (max-width: 52em) {
@@ -447,7 +449,7 @@ img {
     }
 
     .postcard--full .postcard__title {
-        font-size: 1.5em;
+        font-size: 2.3em;
     }
 }
 
