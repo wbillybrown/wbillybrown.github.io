@@ -127,6 +127,10 @@ img {
     display: block;
 }
 
+.display--none {
+    display: none;
+}
+
 .list--subtle {
     list-style: none;
     padding: 0;
@@ -365,18 +369,6 @@ img {
 }
 
 @media (max-width: 46.5em) {
-    h2 {
-        font-size: 1.75em;
-    }
-
-    h3 {
-        font-size: 1.33em;
-    }
-
-    h4 {
-        font-size: 1.125em;
-    }
-
     .site__main {
         margin: 0 1.75em;
 
@@ -389,7 +381,7 @@ img {
 
 @media (max-width: 33em) {
     .site__title {
-        font-size: 3em;
+        font-size: 4em;
     }
 
     .site__navigation {
@@ -455,6 +447,6 @@ img {
 
 @media (max-width: 25em) {
     .site__title {
-        font-size: 2.5em;
+        font-size: 3.75em;
     }
 }
