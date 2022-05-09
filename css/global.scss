@@ -1,6 +1,7 @@
 ---
 ---
 $grey: #f5f5f5;
+$dark-grey: #555555;
 $pale-cream: rgba(255, 255, 252, 0.85);
 $font: 'Tangerine';
 
@@ -229,7 +230,19 @@ img {
         background-color: $pale-cream;
         border: medium double black;
         box-shadow: 0 0 0 0.75em $pale-cream;
-        padding: 0.5em 1em;
+        padding: 0.15em;
+
+        .site__main__inner-border {
+            background-image:
+                linear-gradient(to right, $dark-grey 20%, rgba(255, 255, 255, 0) 0%),
+                linear-gradient(to right, $dark-grey 20%, rgba(255, 255, 255, 0) 0%),
+                linear-gradient(to bottom, $dark-grey 20%, rgba(255, 255, 255, 0) 0%),
+                linear-gradient(to bottom, $dark-grey 20%, rgba(255, 255, 255, 0) 0%);
+            background-position: top, bottom, left, right;
+            background-size: 8px 2px, 8px 2px, 2px 8px, 2px 8px;
+            background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+            padding: 0.5em 1em;
+        }
     }
 
     &.site__main--wide {

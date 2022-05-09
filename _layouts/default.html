@@ -25,10 +25,14 @@
         </header>
 
         <main class="site__main{% if page.is-content %}  site__main--content{% endif %}{% if page.wide %}  site__main--wide{% endif %}">
-            {% if page.title and page.show-title != false %}
-            <h2 class="page__title">{{ page.title }}</h2>
-            {% endif %}
-            {{ content }}
+            <div class="site__main__inner-border">
+
+                {% if page.title and page.show-title != false %}
+                <h2 class="page__title">{{ page.title }}</h2>
+                {% endif %}
+                {{ content }}
+
+            </div>
         </main>
 
         <footer class="site__footer">
