@@ -231,6 +231,10 @@ img {
         box-shadow: 0 0 0 0.75em $pale-cream;
         padding: 0.5em 1em;
     }
+
+    &.site__main--wide {
+        max-width: 64em;
+    }
 }
 
 .site__footer {

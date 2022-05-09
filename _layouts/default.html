@@ -24,7 +24,7 @@
             <h1 class="site__title">{{ site.title }}</h1>
         </header>
 
-        <main class="site__main{% if page.is-content %}  site__main--content{% endif %}">
+        <main class="site__main{% if page.is-content %}  site__main--content{% endif %}{% if page.wide %}  site__main--wide{% endif %}">
             {% if page.title and page.show-title != false %}
             <h2 class="page__title">{{ page.title }}</h2>
             {% endif %}
