@@ -29,13 +29,15 @@ function getSelectedItems(listForm) {
   var checkedItems = listForm.querySelectorAll('input[type="checkbox"]:checked');
   if (checkedItems) {
     for (var i = 0; i < checkedItems.length; ++i) {
-      selectedItems.push(checkedItems[i].name);
+      if (!checkedItems[i].disabled) {
+        selectedItems.push(checkedItems[i].name);
+      }
     }
   }
   var multipleItems = listForm.querySelectorAll('input[type="number"]');
   if (multipleItems) {
     for (var i = 0; i < multipleItems.length; ++i) {
-      if (multipleItems[i].value > 0) {
+      if (multipleItems[i].value > 0 && !multipleItems[i].disabled) {
         selectedItems.push(multipleItems[i].name + ': ' + multipleItems[i].value);
       }
     }
