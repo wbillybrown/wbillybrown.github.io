@@ -259,6 +259,19 @@ img {
     }
 }
 
+.timer {
+    color: #aa3344;
+    font-family: "Tangerine";
+    font-size: 4em;
+    text-align: center;
+
+    .timer__days,
+    .timer__hours,
+    .timer__minutes {
+        color: #ee77aa;
+    }
+}
+
 .postcard-row {
     display: flex;
     flex-direction: row;
