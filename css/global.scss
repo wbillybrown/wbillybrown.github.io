@@ -263,6 +263,7 @@ img {
     color: #aa3344;
     font-family: "Tangerine";
     font-size: 4em;
+    line-height: 1;
     text-align: center;
 
     .timer__days,
@@ -406,6 +407,11 @@ img {
             background-color: $grey;
             box-shadow: none;
         }
+    }
+
+    .timer {
+        font-size: 3em;
+        margin-bottom: 1em;
     }
 }
 
